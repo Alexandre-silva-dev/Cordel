@@ -1,2 +1,2 @@
 # Cordel
- Exercício elaborado no Curso em Vídeo
+ Exercício elaborado no Curso em Vídeo, prof: Guanabara
